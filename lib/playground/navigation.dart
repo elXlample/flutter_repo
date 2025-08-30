@@ -49,7 +49,7 @@ class NavState extends State<Nav> {
                   MaterialPageRoute(builder: (context) => TabsExample()),
                 );
               },
-              child: Text('Material tabs example'),
+              child: Text('Material tabs example test'),
             ),
             SizedBox(
               height: MediaQuery.of(context).size.height / 5,
